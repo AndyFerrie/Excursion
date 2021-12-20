@@ -36,7 +36,7 @@ The web page we’ll build advertises a mobile app which helps users record and 
 
 ### What I learned
 
-Building this page I learned how to embed an autoplaying and looping video. CodeCademy also suggested placing an image in <p> tags as a simple way of placing an image on a new line.
+Building this page I learned how to embed an autoplaying and looping video. CodeCademy also suggested placing an image in &lt;p&gt;&lt;/p&gt; tags as a simple way of placing an image on a new line.
 
 ### Continued development
 
