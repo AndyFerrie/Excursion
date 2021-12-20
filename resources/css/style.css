@@ -15,16 +15,16 @@ h2 {
     font-size: 2.625rem;
 }
 
-p {
+p, footer {
     font-size: 1.3125rem;
     color: grey;
 }
 
 .cta {
     color: aquamarine;
+    font-size: 1rem;
 }
 
 footer {
     text-align: right;
-    color: grey;
 }
